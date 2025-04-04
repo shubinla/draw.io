@@ -206,6 +206,9 @@
         <mxCell id="5PHu6bmVCuGlUTzXwRUM-71" value="全部终端发布成功，kafka 通知 pageid versionid" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="471" y="838" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5PHu6bmVCuGlUTzXwRUM-72" value="检测资源是否存在并预加载&lt;div&gt;更新生效页面的版本 id&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="846" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
